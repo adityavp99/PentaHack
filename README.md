@@ -20,6 +20,9 @@ pycryptodome Crypto.Cipher import AES were used to encrypt the output numpy file
 5. Run the notebook in the jupyternotebook environment
 6. To generate the output, please ensure that the entire video is run before encryption and decryption.
 
+### Front end design
+Due to the time constrains the front end of the application was not connected to the model. A [prototype](https://www.figma.com/proto/7EvAccI8axL4IwiPkb8yEc/Driving-AI?node-id=1-13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A13) was design instead with base functionalities. A video denmostrating the flow of the app can be found in the repository. It can be accessed here: https://github.com/adityavp99/PentaHack/main/DrivingAI_APP.mp4
+
 ### Screenshot of the optical flow output
 ![screenshot](https://github.com/adityavp99/PentaHack/blob/main/outputs/image.png?raw=true)
 
