@@ -21,4 +21,11 @@ pycryptodome Crypto.Cipher import AES were used to encrypt the output numpy file
 6. To generate the output, please ensure that the entire video is ran before encrption and decryption.
 
 ### Screenshot of the optical flow output
-![alt text](https://github.com/adityavp99/PentaHack/blob/main/image.jpg?raw=true)
+![screenshot](https://github.com/adityavp99/PentaHack/blob/main/output/image.png?raw=true)
+
+## Origin of data
+### Source of the video
+The training video was obtained from the public dataset of D²-City: A Large-Scale Dashcam Video Dataset of Diverse Traffic Scenarios. It is availiable online in the [science data bank](https://www.scidb.cn/en/detail?dataSetId=804399692560465920)
+
+### Source of the lane marking
+The size and length of the lane marking were obtained from the [Hainan government in China](http://www.orac.hainan.gov.cn/ggxxbzml2016/GB5768.3-2009.pdf). This is selected as the training video is by a ride hailing company named DiDi in China.
