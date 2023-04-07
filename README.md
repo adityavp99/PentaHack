@@ -21,7 +21,7 @@ pycryptodome Crypto.Cipher import AES were used to encrypt the output numpy file
 6. To generate the output, please ensure that the entire video is ran before encrption and decryption.
 
 ### Screenshot of the optical flow output
-![screenshot](https://github.com/adityavp99/PentaHack/blob/main/output/image.png?raw=true)
+![screenshot](https://github.com/adityavp99/PentaHack/blob/main/outputs/image.png?raw=true)
 
 ## Origin of data
 ### Source of the video
