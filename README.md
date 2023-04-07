@@ -10,3 +10,15 @@ Estimate the movement of object in the video. This is used inplace of background
 
 ### -AES encryption
 pycryptodome Crypto.Cipher import AES were used to encrypt the output numpy file. It is saved using numpy.save() method. CV2.imwrite is used to create the directory which stores the images
+
+## Running the file
+### Steps to run the file
+1. Download the assets folder
+2. Ensure the folder is in the same directory as the notebook
+3. Ensure the train.mp4 is in the assets folder
+4. Uncommand and install the pycryptodome and opencv-python file before running the notebook
+5. Run the notebook in jupyternotebook environment
+6. To generate the output, please ensure that the entire video is ran before encrption and decryption.
+
+### Screenshot of the optical flow output
+![alt text](https://github.com/adityavp99/PentaHack/blob/main/image.jpg?raw=true)
